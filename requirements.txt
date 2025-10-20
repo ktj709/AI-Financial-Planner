@@ -1,0 +1,15 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit
+rich
+faker
+PyMuPDF
+beautifulsoup4
+python-dateutil
+scipy
+sentry-sdk
+tqdm
