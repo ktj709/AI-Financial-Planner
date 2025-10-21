@@ -68,7 +68,8 @@ CLI prints formatted JSON.
 Streamlit renders charts, metrics, and structured insights.
 
 5. ⚙️ Technology Stack
-   | Layer                | Tools / Libraries Used                            |
+   
+| Layer                | Tools / Libraries Used                            |
 | -------------------- | ------------------------------------------------- |
 | **Frontend (Web)**   | Streamlit                                         |
 | **Frontend (CLI)**   | Rich                                              |
