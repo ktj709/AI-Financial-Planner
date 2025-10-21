@@ -130,7 +130,7 @@ This allows transparent demonstration of how decisions are made — fulfilling t
 
 9. 🧰 Deployment & Execution
 
-   | Mode                | Command                           | Description                                      |
+| Mode                | Command                           | Description                                      |
 | ------------------- | --------------------------------- | ------------------------------------------------ |
 | CLI Mode            | `python main.py --user demo`      | Text-based interactive mode                      |
 | Streamlit Web Mode  | `streamlit run app.py`            | Web dashboard with navigation + natural language |
@@ -138,7 +138,8 @@ This allows transparent demonstration of how decisions are made — fulfilling t
 | Dependency Install  | `pip install -r requirements.txt` | Installs all dependencies                        |
 
 10. 💬 Example User Interactions
-    | Example Query                                         | Agent Used      | Output                |
+    
+| Example Query                                         | Agent Used      | Output                |
 | ----------------------------------------------------- | --------------- | --------------------- |
 | “Show me my spending breakdown for the last 30 days.” | SpendingAdvisor | Charts + summary      |
 | “I want to buy a $30,000 car next year.”              | PurchasePlanner | Savings plan forecast |
@@ -146,7 +147,7 @@ This allows transparent demonstration of how decisions are made — fulfilling t
 | “List unusual spending patterns this week.”           | SpendingAdvisor | Anomaly report        |
 | “Help me save for a $10,000 bike in 8 months.”        | PurchasePlanner | ML-driven forecast    |
 
-11. 🧩 Modularity Summary
+12. 🧩 Modularity Summary
  Each .py file represents one independent module:
 
 | File                      | Purpose                          |
